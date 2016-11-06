@@ -1,7 +1,1 @@
-class
-
-  
-  
-  
-  
-  sakdfhaskljůdghsdafdasdf
+System.out.println("zkouška");
